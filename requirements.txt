@@ -1,0 +1,2 @@
+matplotlib==2.2.3
+networkx==2.1
